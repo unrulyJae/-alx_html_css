@@ -1,4 +1,4 @@
-# SmileSchool Landing Page
+# ALX CSS Advanced Milestone: SmileSchool Landing Page
 
 Welcome to the SmileSchool landing page project — a responsive, visually engaging web page built with HTML and CSS. This project showcases a modern layout and highlights the features and offerings of the fictional SmileSchool platform.
 
